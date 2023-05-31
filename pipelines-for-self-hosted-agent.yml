@@ -40,6 +40,8 @@ stages:
       workingDirectory: $(projectRoot)
       displayName: 'myStep 2'
     - script: |
+        python -m venv antenv
+        source antenv/bin/activate
         export PATH=$HOME/.local/bin:$PATH
         make install
         make lint
