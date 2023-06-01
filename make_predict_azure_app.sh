@@ -25,5 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST sriwebapp7.azurewebsites.net:$PORT/predict 
+     -X POST flask-ml-service-sri.azurewebsites.net:$PORT/predict 
      #your application name <yourappname>goes here
