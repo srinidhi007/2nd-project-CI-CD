@@ -6,9 +6,10 @@ In this project we will build a CI-CD pipeline by using Githun Actions, Azure ap
 ## Agile Planning and Communication
 For planning and organizing the ToDo tasks, we will go through Trello for day to day tasks and use google sheets for planning weekly, quaterly and yearly outlooks.
 
-[Trello boardfor day to day tasks](https://trello.com/invite/b/eV2dTCfS/ATTIb73a021f9cc41346b085b28ba7240ac05C513744/ci-cd-2nd-project)
+[Trello board for day to day tasks](https://trello.com/invite/b/eV2dTCfS/ATTIb73a021f9cc41346b085b28ba7240ac05C513744/ci-cd-2nd-project)
 
 [Google spreadsheets for high level overview and planning](https://docs.google.com/spreadsheets/d/1i13qxWZAgimTkDBM0qaHdZdUQZiCsq8p/edit?usp=sharing&ouid=106030168383046099430&rtpof=true&sd=true)
+
 
 #
 
@@ -103,5 +104,11 @@ And the output looks like this:
 
 #### https://youtu.be/bK35VK0EipY
 
+#### Future Improvements
+- To improve your existing web app deployed on Azure Pipelines with Kubernetes and microservices, consider the following steps:
+  - Containerize our microservices using Docker.
+  -  Deploy our containerized microservices using Kubernetes.
+  -  Utilize Kubernetes' auto-scaling capabilities.
+  -  Use tools like Azure Monitor, Prometheus, and Grafana to collect metrics, visualize performance, and gain insights into our application's behavior.
 
 #
