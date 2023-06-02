@@ -72,7 +72,7 @@ az webapp up -n <your-appservice-name> -l <your-region> --sku F1 -g <your-resour
 
 #### Set up GitHub Actions
 
-[![Python application test with Github Actions](https://github.com/srinidhi007/2nd-project-CI-CD/blob/master/.github/workflows/pythonapp.yml/badge.svg)](https://github.com/srinidhi007/2nd-project-CI-CD/blob/master/.github/workflows/pythonapp.yml)
+![Python application test with Github Actions](https://github.com/srinidhi007/2nd-project-CI-CD/blob/master/.github/workflows/pythonapp.yml)
 
 - The GitHub actions can be configured in pythonapp.yml in the ./workflow folder. A succesful configuration and build will look something like this:
 
