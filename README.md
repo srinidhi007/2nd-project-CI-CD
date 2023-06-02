@@ -101,8 +101,9 @@ And the output looks like this:
 
 #### youtube Demo of the project
 - Click on the link to be directed to youtube
+#### Short Video Demo: https://youtu.be/HqnIAEvHx50 (3 mins)
 
-#### https://youtu.be/bK35VK0EipY
+#### Long Video Demo: https://youtu.be/bK35VK0EipY  (9 mins)
 
 #### Future Improvements
 - To improve your existing web app deployed on Azure Pipelines with Kubernetes and microservices, consider the following steps:
